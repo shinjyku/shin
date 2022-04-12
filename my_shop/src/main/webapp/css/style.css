@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body {
+	width : 1000px;
+	background-color: olive;
+}
+table {
+	width: auto;
+	background-color: rgb(255, 255, 128)f;
+	margin: 10px auto 10px auto;
+}
+th{
+	width: 200px;
+	font-size: 1.2em;
+	color: white;
+	background-color: maroon;
+}
+#err{
+	color: red;
+}
