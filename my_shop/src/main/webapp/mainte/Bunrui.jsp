@@ -17,7 +17,6 @@ List<ArrayList<String>> datas = (List<ArrayList<String>>)request.getAttribute("d
 </head>
 <body>
 <h1>分類デーブル</h1>
-
 <form action="/my_shop/Bunrui" method="post" id="form1">
 <input type="submit" name="search" id="search" value="表示"> 
 <input type="text" name="code" id="code" value=""> 
